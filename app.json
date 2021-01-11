@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "project-63",
+    "slug": "snack-b99e5c12-13bd-4237-8009-37ebe87fdc0f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"app.suvanwita.dictionaryapp"
+    },
+    "android": {
+      "package":"app.suvanwita.dictionary"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
